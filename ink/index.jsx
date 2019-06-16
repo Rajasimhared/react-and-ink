@@ -1,5 +1,5 @@
-import * as React from 'react';
-import {render} from 'ink';
-import {Hackersearch} from './hackersearch.jsx';
+import * as React from "react";
+import { render } from "ink";
+import { CricketSearch } from "./cricketsearch";
 
-render(<Hackersearch/>);
+render(<CricketSearch />);
